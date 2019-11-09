@@ -26,13 +26,13 @@ blue='\e[1;34m'
 cyan='\e[1;36m'
 red='\e[1;31m'
 
-figlet TUAN B4DUT  | lolcat
+figlet Mr.4ndre4s5  | lolcat
 
 echo -b "_____________________________________________________________" | lolcat
 echo -b "TYPE      : TOOLS INSTALLER $green " |lolcat
 echo -b "VERSION   : V.3 " | lolcat
 echo -b "TOTALS    : 311 TOOLS " | lolcat
-echo -b "AUTHOR    : TUAN B4DUT $green " |lolcat
+echo -b "AUTHOR    : Mr.4ndre4s5 $green " |lolcat
 echo -b "ASSOCIATE : INDONESIAN TERMUX ASSOCIATION $green " |lolcat
 echo -b "ASSOCIATE : INDONESIAN TERMUX TUTORIAL $green " |lolcat
 echo -b "ASSOCIATE : INDONESIAN DARK TERMUX ASSOCIATE $green " |lolcat
@@ -50,10 +50,10 @@ clear
 echo -b $green"[#]> TOOLS YANG KALIAN INSTALL ADA DI DIRECTORY TOOLS GUA " |lolcat
 echo -b $green"[#]> Thanks For Using My Tools" |lolcat
 sleep 1
-echo -b $green"[#]> TUAN B4DUT On Your System" |lolcat
+echo -b $green"[#]> Mr.4ndre4s5 On Your System" |lolcat
 
 echo -b $green"[#]> See you Again SCRIPTKIDDIES😎 :)..." |lolcat
-figlet TUAN B4DUT | lolcat
+figlet Mr.4ndre4s5 | lolcat
 sleep 1
 exit
 }
@@ -2984,11 +2984,11 @@ echo -e "${y} SUDAH TERINSTALL.."
 
 ;;
 
-00) echo "AUTHOR: TUAN B4DUT" | lolcat
-echo "TUAN B4DUT ON YOUR SYSTEM" | lolcat
+00) echo "AUTHOR: Mr.4ndre4s5" | lolcat
+echo "Mr.4ndre4s5 ON YOUR SYSTEM" | lolcat
 echo "INDONESIAN TERMUX ASSOCIATION" | lolcat
 echo "SEMUA TOOLS YANG KALIAN INSTALL ADA DI DIRECTORY TOOLS GUA" | lolcat
-figlet TUAN B4DUT | lolcat
+figlet Mr.4ndre4s5 | lolcat
 exit
 ;;
 
@@ -2997,5 +2997,5 @@ esac
 done
 done
 
-#[081221215191]
-#[GILANG]
+#[082249435007]
+#[Mr.4ndre4s5]
